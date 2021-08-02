@@ -1,6 +1,6 @@
-# CRUD API
+# Auth
 
-Node.js CRUD API
+Node.js Auth
 
 ## Usage
 
